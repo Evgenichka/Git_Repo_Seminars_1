@@ -1,3 +1,3 @@
 # Git_Repo_Seminars
 
-Halllo, Git!!
+Hello, Git!!
